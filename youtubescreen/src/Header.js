@@ -2,24 +2,19 @@ import React from "react";
 import "./Header.css";
 import Searchbar from "./Searchbar";
 
-import { HiArrowCircleRight } from "react-icons/hi";
-import { HiArchive } from "react-icons/hi";
-
-import { HiAnnotation } from "react-icons/hi";
-import { HiArrowCircleLeft } from "react-icons/hi";
+import { BiMenu } from "react-icons/bi";
+import { BiPlay } from "react-icons/bi";
+import { BiMicrophone } from "react-icons/bi";
+import { BiVideoPlus } from "react-icons/bi";
 import { HiAdjustments } from "react-icons/hi";
-import { FaRss } from "react-icons/fa";
+import { BiBell } from "react-icons/bi";
 
 function Header() {
   return (
     <div className="header">
       <div className="lefticons">
-        <div className="HiArrowCircleRight">
-          <HiArrowCircleRight />
-        </div>
-        <div className="youtubeicon">
-          <HiArchive />
-        </div>
+        <BiMenu />
+        <BiPlay />
       </div>
       <span>YouTube</span>
       <sub>PK</sub>
@@ -27,18 +22,10 @@ function Header() {
       <Searchbar />
 
       <div className="righticons">
-        <div className="HiAnnotaion">
-          <HiAnnotation />
-        </div>
-        <div className="HiArrowCircleLeft ">
-          <HiArrowCircleLeft />
-        </div>
-        <div className="HiAdjustments">
-          <HiAdjustments />
-        </div>
-        <div className="FaRss">
-          <FaRss />
-        </div>
+        <BiMicrophone />
+        <BiVideoPlus />
+        <HiAdjustments />
+        <BiBell />
       </div>
     </div>
   );

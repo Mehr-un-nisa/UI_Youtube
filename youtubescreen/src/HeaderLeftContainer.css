@@ -1,0 +1,20 @@
+p {
+  font-size: 9px;
+  color: lightslategray;
+  margin-top: 5px;
+  font-weight: bold;
+  margin-left: 4%;
+  word-spacing: 2px;
+}
+.HeaderLeftContainer {
+  display: flex;
+  margin: 0px;
+  padding: 6px;
+}
+.lefticonVisual {
+  color: black;
+  margin-top: 1px;
+  margin-left: 1%;
+  font-size: 19px;
+  text-align: start;
+}

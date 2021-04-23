@@ -6,7 +6,6 @@ function LeftContainer() {
   return (
     <div className="LeftContainer">
       <HeaderLeftContainer />
-      <h1> hello</h1>
     </div>
   );
 }

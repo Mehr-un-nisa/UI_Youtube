@@ -1,27 +1,19 @@
-.HiArrowCircleRight {
-  color: white;
-  margin-top: 1px;
-  margin-left: 1%;
-  font-size: 23px;
-  text-align: start;
-  padding: 3px;
-}
 .header {
   background-color: #232b2b;
   margin: 0px;
   padding: 9px;
   display: flex;
 }
-.youtubeicon {
-  color: red;
+
+.lefticons {
+  color: white;
   margin-top: 1px;
-  margin-left: 2%;
+  margin-left: 1%;
   font-size: 23px;
   padding: 3px;
-}
-.lefticons {
   display: flex;
-  gap: 20px;
+  text-align: start;
+  gap: 26px;
 }
 span {
   font-size: 18px;

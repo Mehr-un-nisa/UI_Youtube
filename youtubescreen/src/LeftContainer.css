@@ -1,6 +1,7 @@
 .LeftContainer {
   background-color: rgb(214, 210, 210);
-  width: 850px;
+  width: 880px;
   margin: 20px;
-  height: 450px;
+  height: 480px;
+  display: flex;
 }
