@@ -1,20 +1,35 @@
-p {
+#visualtextheading {
   font-size: 9px;
   color: lightslategray;
-  margin-top: 5px;
-  font-weight: bold;
-  margin-left: 4%;
-  word-spacing: 2px;
+  margin-top: 0px;
+  font-family: Helvetica;
 }
 .HeaderLeftContainer {
   display: flex;
-  margin: 0px;
   padding: 6px;
 }
 .lefticonVisual {
   color: black;
   margin-top: 1px;
-  margin-left: 1%;
   font-size: 19px;
+}
+.bg-white {
+  margin-left: 120%;
+  padding: 4px 120px 4px 4px;
   text-align: start;
+  background-color: rgb(250, 248, 241);
+  font-size: 13px;
+}
+.containersearchbox input {
+  border: 1px grey;
+  margin-top: 1px;
+}
+.RightIconsofContainer {
+  color: black;
+  font-size: 17px;
+  margin-left: 301px;
+  padding: 1px;
+  display: flex;
+  gap: 25px;
+  margin-top: 3px;
 }
