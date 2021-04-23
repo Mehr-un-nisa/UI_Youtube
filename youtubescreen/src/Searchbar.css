@@ -1,0 +1,10 @@
+.bg-black {
+  margin-left: 40%;
+  padding: 7px;
+  text-align: start;
+}
+.searchbox input {
+  width: 420px;
+  border: 1px solid grey;
+  margin-top: 4px;
+}
