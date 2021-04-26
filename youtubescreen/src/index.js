@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Header from "./Header";
-import LeftContainer from "./LeftContainer";
+import Header from "./components/Header";
+import LeftContainer from "./components/LeftContainer";
 import "tachyons";
 import "./index.css";
 

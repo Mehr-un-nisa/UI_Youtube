@@ -4,7 +4,7 @@ import "./SeocndLeftContainer.css";
 function SeocndLeftContainer() {
   return (
     <div className="SeocndLeftContainer">
-      <div className="navbartext">
+      <div className="bg-light-green">
         <h1>FILE</h1>
         <h1>EDIT</h1>
         <h1>VIEW</h1>
