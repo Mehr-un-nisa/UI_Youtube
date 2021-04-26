@@ -13,7 +13,7 @@ function HeaderLeftContainer() {
         <FaReply />
       </div>
       <div id="visualtextheading">
-        <p>StartPage-Microsoft Visual Studio</p>
+        <p className="startpage">StartPage-Microsoft Visual Studio</p>
       </div>
       <div className="containersearchbox">
         <input
