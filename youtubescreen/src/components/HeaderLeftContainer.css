@@ -1,16 +1,15 @@
 #visualtextheading {
-  font-size: 9px;
+  font-size: 8px;
   color: lightslategray;
-  margin-top: 0px;
   font-family: Helvetica;
+  margin-left: 1%;
 }
-.HeaderLeftContainer {
+.containerHeader {
   display: flex;
-  padding: 6px;
+  padding: 7px;
 }
 .lefticonVisual {
   color: black;
-  margin-top: 1px;
   font-size: 19px;
 }
 .bg-white {
@@ -30,6 +29,12 @@
   margin-left: 301px;
   padding: 1px;
   display: flex;
-  gap: 25px;
+  gap: 53.7px;
   margin-top: 3px;
+}
+.SecondLineText {
+  display: flex;
+  font-size: 5px;
+  gap: 9px;
+  margin-left: 1%;
 }
