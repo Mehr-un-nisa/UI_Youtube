@@ -1,7 +1,6 @@
 import React from "react";
 import "./Header.css";
 import Searchbar from "./Searchbar";
-
 import { BiMenu } from "react-icons/bi";
 import { BiPlay } from "react-icons/bi";
 import { BiMicrophone } from "react-icons/bi";

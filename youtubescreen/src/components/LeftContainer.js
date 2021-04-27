@@ -1,5 +1,5 @@
 import React from "react";
-import SecondlineLeftContainer from "./SecondlineLeftContainer";
+
 import HeaderLeftContainer from "./HeaderLeftContainer";
 
 import "./LeftContainer.css";
@@ -8,7 +8,6 @@ function LeftContainer() {
   return (
     <div className="LeftContainer">
       <HeaderLeftContainer />
-      <SecondlineLeftContainer />
     </div>
   );
 }
