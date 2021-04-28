@@ -3,17 +3,18 @@
   margin: 0px;
   padding: 9px;
   display: flex;
+  position: fixed;
+  width: 100vw;
 }
 
 .lefticons {
   color: white;
-  margin-top: 1px;
   margin-left: 1%;
   font-size: 23px;
   padding: 3px;
   display: flex;
-  text-align: start;
   gap: 26px;
+  margin-top: 1px;
 }
 span {
   font-size: 18px;

@@ -1,20 +1,22 @@
 #visualtextheading {
   font-size: 8px;
+  margin-left: 6px;
+  padding: 0px;
   color: lightslategray;
   font-family: Helvetica;
-  margin-left: 1%;
 }
 .containerHeader {
   display: flex;
-  padding: 7px;
+  padding: 8px;
 }
 .lefticonVisual {
   color: black;
-  font-size: 19px;
+  font-size: 15px;
+  margin-top: 2px;
 }
 .bg-white {
-  margin-left: 120%;
-  padding: 4px 120px 4px 4px;
+  margin-left: 195%;
+  padding: 4px 50px 3px 4px;
   text-align: start;
   background-color: rgb(250, 248, 241);
   font-size: 13px;
@@ -26,15 +28,18 @@
 .RightIconsofContainer {
   color: black;
   font-size: 17px;
-  margin-left: 301px;
+  margin-left: 370px;
   padding: 1px;
-  display: flex;
-  gap: 53.7px;
   margin-top: 3px;
+  display: flex;
+  gap: 30px;
 }
 .SecondLineText {
   display: flex;
   font-size: 5px;
   gap: 9px;
   margin-left: 1%;
+}
+.container {
+  position: fixed;
 }
