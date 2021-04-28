@@ -46,3 +46,10 @@ button {
   display: flex;
   gap: 7px;
 }
+.bg-green {
+  margin-top: 10vw;
+  width: 28vw;
+  margin-left: 69vw;
+  height: 37vw;
+  position: fixed;
+}
