@@ -53,3 +53,6 @@ button {
   height: 37vw;
   position: fixed;
 }
+.images {
+  display: grid;
+}
