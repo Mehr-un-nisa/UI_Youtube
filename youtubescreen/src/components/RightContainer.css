@@ -1,4 +1,48 @@
-.bg-pink {
-  margin-left: 78%;
-  height: 2vw;
+.righticonheader {
+  margin-top: 6vw;
+  width: 32vw;
+  margin-left: 69vw;
+  height: 4vw;
+  position: fixed;
+}
+.whitebackground {
+  color: black;
+}
+button {
+  width: 49px;
+  height: 38px;
+  background-color: white;
+  border-radius: 50%;
+  border: 2px solid white;
+  padding: 7px;
+  border-radius: 34px;
+}
+.C {
+  border: 1px solid rgb(233, 232, 232);
+  background-color: #232b2b;
+  color: white;
+}
+.databases {
+  border: 1px solid rgb(233, 232, 232);
+  border-radius: 23px;
+  background-color: #232b2b;
+  color: white;
+  width: 100px;
+}
+.Cplus {
+  border: 1px solid rgb(233, 232, 232);
+  background-color: #232b2b;
+  color: white;
+  width: 60px;
+}
+.computers {
+  border: 1px solid rgb(233, 232, 232);
+  background-color: #232b2b;
+  color: white;
+  width: 100px;
+}
+
+.buttonclass {
+  display: flex;
+  gap: 7px;
 }
