@@ -55,4 +55,7 @@ button {
 }
 .images {
   display: grid;
+  width: 170px;
+  height: 100px;
+  gap: 9px;
 }
