@@ -2,7 +2,7 @@
   font-size: 8px;
   margin-left: 6px;
   padding: 0px;
-  color: lightslategray;
+  color: #777579;
   font-family: Helvetica;
 }
 .containerHeader {
@@ -14,11 +14,11 @@
   font-size: 15px;
   margin-top: 2px;
 }
-.bg-white {
-  margin-left: 195%;
-  padding: 4px 50px 3px 4px;
+.QuickLaunchSearchBar {
+  margin-left: 203%;
+  padding: 4px 40px 3px 4px;
   text-align: start;
-  background-color: rgb(250, 248, 241);
+  background-color: #fcfcfd;
   font-size: 13px;
 }
 .containersearchbox input {
@@ -39,6 +39,8 @@
   font-size: 5px;
   gap: 9px;
   margin-left: 1%;
+  flex-wrap: wrap;
+  color: #a5a1a6;
 }
 .container {
   position: fixed;

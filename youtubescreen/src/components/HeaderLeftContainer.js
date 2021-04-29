@@ -14,11 +14,11 @@ function HeaderLeftContainer() {
           <FaReply />
         </div>
         <div id="visualtextheading">
-          <p className="startpage">StartPage - Microsoft Visual Studio</p>
+          <p>StartPage - Microsoft Visual Studio</p>
         </div>
         <div className="containersearchbox">
           <input
-            className="bg-white"
+            className="QuickLaunchSearchBar"
             type="Search Bar"
             placeholder="Quick Launch(Ctrl+Q)"
           />

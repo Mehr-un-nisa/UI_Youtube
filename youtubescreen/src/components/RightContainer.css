@@ -19,25 +19,25 @@ button {
 }
 .C {
   border: 1px solid rgb(233, 232, 232);
-  background-color: #232b2b;
+  background-color: #373737;
   color: white;
 }
 .databases {
   border: 1px solid rgb(233, 232, 232);
   border-radius: 23px;
-  background-color: #232b2b;
+  background-color: #373737;
   color: white;
   width: 100px;
 }
 .Cplus {
   border: 1px solid rgb(233, 232, 232);
-  background-color: #232b2b;
+  background-color: #373737;
   color: white;
   width: 60px;
 }
 .computers {
   border: 1px solid rgb(233, 232, 232);
-  background-color: #232b2b;
+  background-color: #373737;
   color: white;
   width: 100px;
 }
@@ -46,16 +46,34 @@ button {
   display: flex;
   gap: 7px;
 }
-.bg-green {
-  margin-top: 10vw;
+.RightContainerImageText {
   width: 28vw;
   margin-left: 69vw;
   height: 37vw;
   position: fixed;
 }
 .images {
+  margin-top: 10vw;
   display: grid;
-  width: 170px;
-  height: 100px;
+  width: 160px;
+  height: 90px;
   gap: 9px;
+  position: fixed;
+}
+
+.GreysmallText {
+  color: #69655b;
+  font-size: 12px;
+}
+.SideHeadingImageText {
+  display: grid;
+  gap: 22px;
+  color: white;
+  font-size: 7px;
+  margin-left: 13vw;
+  margin-top: 9.6vw;
+}
+h2 {
+  color: #69655b;
+  font-size: 12px;
 }
