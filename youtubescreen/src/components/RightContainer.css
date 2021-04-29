@@ -81,3 +81,6 @@ h2 {
 .BiCheckCircle {
   color: black;
 }
+.rightside {
+  position: fixed;
+}

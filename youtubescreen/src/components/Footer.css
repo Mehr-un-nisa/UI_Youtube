@@ -1,0 +1,27 @@
+.FooterIconPlusText {
+  width: 65vw;
+  margin-top: 580px;
+  padding: 8px;
+  margin-left: 2%;
+  position: fixed;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+.FooterGreyText {
+  color: #69655b;
+  font-size: 12px;
+}
+.FooterRightIcons {
+  display: flex;
+  color: grey;
+  font-size: 17px;
+
+  margin-left: 66%;
+}
+.FooterIconText {
+  font-size: 13px;
+}
+li {
+  color: #181818;
+}
