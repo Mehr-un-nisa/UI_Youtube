@@ -53,7 +53,7 @@ button {
   position: fixed;
 }
 .images {
-  margin-top: 10vw;
+  margin-top: 9.9vw;
   display: grid;
   width: 160px;
   height: 90px;
@@ -67,13 +67,17 @@ button {
 }
 .SideHeadingImageText {
   display: grid;
-  gap: 22px;
+  gap: 13px;
   color: white;
   font-size: 7px;
   margin-left: 13vw;
-  margin-top: 9.6vw;
+  margin-top: 9.2vw;
 }
 h2 {
   color: #69655b;
-  font-size: 12px;
+  font-size: 11px;
+  margin-top: 20px;
+}
+.BiCheckCircle {
+  color: black;
 }
