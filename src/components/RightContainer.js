@@ -59,10 +59,6 @@ function RightContainer() {
           </div>
 
           <div className="ImageHeadingText">
-            <h2>
-              HOW IT SHOULD HAVE ENDED S9 <br />. E14
-            </h2>
-
             <h1>Viliam Pub Compilation - Volume One</h1>
             <span className="GreysmallText">
               How it should have ended <BiCheckCircle />
