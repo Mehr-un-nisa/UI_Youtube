@@ -22,11 +22,11 @@ function RightContainer() {
       </div>
       <div className="RightContainerImageText">
         <div className="images">
-          <img src={Javaa} />
-          <img src={News} />
-          <img src={MCU} />
-          <img src={Viliam} />
-          <img src={ColoredImacs} />
+          <img src={Javaa} alt="" />
+          <img src={News} alt="" />
+          <img src={MCU} alt="" />
+          <img src={Viliam} alt="" />
+          <img src={ColoredImacs} alt="" />
         </div>
 
         <div className="SideHeadingImageText">
