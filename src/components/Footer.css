@@ -15,11 +15,10 @@
 .FooterRightIcons {
   display: flex;
   color: grey;
-
-  margin-left: 66%;
+  margin-left: 61%;
 }
 .FooterIconText {
-  font-size: 14px;
+  font-size: 15px;
 }
 li {
   color: #181818;

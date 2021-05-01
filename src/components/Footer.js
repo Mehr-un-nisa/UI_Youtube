@@ -12,19 +12,19 @@ function Footer() {
       <br />
       <span className="FooterGreyText">8,809 views . 28 Mar 2018</span>
       <div className="FooterRightIcons">
-        <TiThumbsUp />
+        <TiThumbsUp size="23px" />
         <div className="FooterIconText"> 49 </div>
         <li />
-        <TiThumbsDown />
+        <TiThumbsDown size="23px" />
         <div className="FooterIconText">3</div>
         <li />
-        <BiShare />
+        <BiShare size="23px" />
         <div className="FooterIconText">SHARE</div>
         <li />
-        <BiSave />
+        <BiSave size="23px" />
         <div className="FooterIconText">SAVE</div>
         <li />
-        <BiDotsHorizontal />
+        <BiDotsHorizontal size="23px" />
       </div>
     </div>
   );
