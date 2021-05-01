@@ -11,7 +11,7 @@ function BackgroundScreen() {
       <RightContainer />
       <Footer />
       <div className="CentreImage">
-        <img src={Screen} alt="" height="480px" />
+        <img src={Screen} alt="" height="480%" />
       </div>
     </div>
   );
