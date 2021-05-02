@@ -14,6 +14,7 @@
 }
 .FooterRightIcons {
   display: flex;
+  flex-wrap: wrap;
   color: grey;
   margin-left: 61%;
 }

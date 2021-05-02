@@ -1,9 +1,8 @@
-.righticonheader {
+.righticonbuttonheader {
   margin-top: 6vw;
   width: 32vw;
   margin-left: 69vw;
   height: 4vw;
-  position: fixed;
 }
 .whitebackground {
   color: black;
@@ -46,17 +45,20 @@ button {
   display: flex;
   gap: 7px;
 }
-.RightContainerImageText {
+
+.bg-red {
   width: 28vw;
   margin-left: 69vw;
   height: 37vw;
-  position: fixed;
+  overflow: hidden;
+  float: none;
 }
+
 .images {
-  margin-top: 9.9vw;
-  display: grid;
-  width: 160px;
-  height: 90px;
+  margin-top: 1vw;
+  display: flex;
+  flex-flow: column;
+  width: 12vw;
   gap: 9px;
   position: fixed;
 }
@@ -65,11 +67,18 @@ button {
   color: #69655b;
   font-size: 12px;
 }
-.SideHeadingImageText {
-  display: grid;
+.bg-pink {
+  display: flex;
+  flex-flow: column;
   gap: 17px;
   color: white;
   font-size: 7px;
   margin-left: 13vw;
-  margin-top: 9.3vw;
+  margin-top: 0.5vw;
+  height: 36vw;
+  overflow: hidden;
+}
+.rightside {
+  position: absolute;
+  overflow: hidden;
 }
