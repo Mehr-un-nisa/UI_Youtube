@@ -46,7 +46,7 @@ button {
   gap: 7px;
 }
 
-.bg-red {
+.rightimagetext {
   width: 28vw;
   margin-left: 69vw;
   height: 37vw;
@@ -67,7 +67,7 @@ button {
   color: #69655b;
   font-size: 12px;
 }
-.bg-pink {
+.rightcontainertext {
   display: flex;
   flex-flow: column;
   gap: 17px;

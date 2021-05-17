@@ -20,7 +20,7 @@ function RightContainer() {
           <button className="computers"> Computers</button>
         </div>
       </div>
-      <div className="bg-red">
+      <div className="rightimagetext">
         <div className="images">
           <img src={Javaa} alt="" />
           <img src={News} alt="" />
@@ -29,7 +29,7 @@ function RightContainer() {
           <img src={ColoredImacs} alt="" />
         </div>
 
-        <div className="bg-pink">
+        <div className="rightcontainertext">
           <div className="ImageHeadingText">
             <h1>Java Project Tutorial - Make Login and Register form step..</h1>
             <span className="GreysmallText">
