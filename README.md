@@ -11,7 +11,4 @@
    
 
 
-[yy](https://user-images.githubusercontent.com/55224607/191017922-586674f3-4a1d-4c5c-9696-7da2241683cd.PNG)
-
-
-![yy](https://user-images.githubusercontent.com/55224607/191017852-b1cbf3ca-75cd-4e7b-adcf-54faa704fea5.PNG)
+![yy](https://user-images.githubusercontent.com/55224607/191017922-586674f3-4a1d-4c5c-9696-7da2241683cd.PNG)
